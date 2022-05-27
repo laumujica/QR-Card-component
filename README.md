@@ -16,7 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshot
 
+Web
 ![Web](./Screenshot-web.png)
+
+Mobile
 ![Mobile](./Screenshot-mobile.png)
 
 
