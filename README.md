@@ -50,7 +50,7 @@ I-m so excited to keep on learning how to code this simple things. At first, I t
 - LinkedIn - [Laura Mujica](https://www.linkedin.com/in/lauraamujica/)
 
 - My first proyect for Coder House - [RAYÓNAPP](https://lauraamujica.github.io/RayonAPP-LauraMujica/) 
-    I invented an APP that I'd really like to exists, and made a website about it.
+    I invented an APP that I'd really like to exist, and made a website about it.
 
 
 ## Acknowledgments
